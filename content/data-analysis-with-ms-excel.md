@@ -44,9 +44,9 @@
 
 ### 1. Concatenate values from 2 string columns:
 
-`=A2&B2 `if A2='x' and B2='y', then this will produce "xy"
+**=A2&B2**` `if A2='x' and B2='y', then this will produce "xy"
 
-`=A2&"-"&B2`` `adds a hyphen (-) between the two cell values
+**=A2&"-"&B2**` `adds a hyphen (-) between the two cell values
 
 - the quotation marks are necessary to put text characters between two values
 
